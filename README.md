@@ -1,16 +1,12 @@
-## Hi there 👋
+## Nicholas Lepkowski
+Computer Engineering Student at Florida Polytechnic University
 
-<!--
-**NicholasLepkowski/NicholasLepkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Intrests:
+Imbedded systems
+Nerf Blasters
+Communications (LoRa, Radio, Wifi, Cellular)
+Single board computers
+Prototyping systems to actually help people
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currintly working on:
+Ready on Red: a Disaster-proof emergency communications system
